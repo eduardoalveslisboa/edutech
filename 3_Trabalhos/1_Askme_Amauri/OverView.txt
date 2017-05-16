@@ -1,0 +1,114 @@
+
+
+https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions/#naming-conventions
+	
+server: askmedb.database.windows.net
+login: askme@askmedb
+senha: newdb@17
+
+
+http://www.fabricadepremiosfemsa.com.br/login.php
+131313
+Fabrica@17
+
+
+Programa de incentivo para atender a Coca-cola Femsa
+Programa voltado aos vendedores da empresa somente e não terceirizados
+
+VER A ABA DO SISTEMA - HELP
+
+SISTEMA
+------------------------------------------ CADASTRO ------------------------------------------
+Pré Cadastro via telefone -> Seguido de aprovação do superior imediato -> Deve ativar o cadastro no site depois
+Concordar com regulamento / Programa pode solicitar atualização do cadastro
+
+Empresa pode inativar o cadastro em caso de DETECÇÃO DE FRAUDE
+
+VER ABA DO SITE "MEUS DADOS"
+
+------------------------------------ METAS E RECOMPENSAS ------------------------------------------------
+Divulgação das metas através de e-mail marketing / Acompanhamento das metas / RELATÓRIO DE FECHAMENTO OFICIAL a cada mês
+
+Equipe fábrica de prêmios apura o batimento das metas CREDITA OS PONTOS ao COLABORADOR após FECHAMENTO
+
+INCENTIVOS (possuem vigência, zona e regial) possuem METAS (possuem a recompensa em pontos)
+
+COLABORADOR (Possui Carteira de clientes e responte a um SEGMENTO, pode estar ATIVO na estrutura comercial mensal)
+
+METAS Por COLABORADOR? PARA UM GRUPO DE COLABORADORES?
+
+--------------------------------------- PONTOS ----------------------------------------------------
+ORIGEM*** (RECOMPENSA, PROMOÇÃO, TANSFERÊNCIA)
+
+VIGÊNCIA
+
+CAMPANHA*** (Seria o INCENTIVO? "Campanha de incentivo" ?)
+
+Avaliação do PONTOS da CAMPANHA Depende das VENDAS (Performance, Canal, objetivos)
+
+Extrato
+
+TIPO DE COLABORADOR (temporário , reserva, fixo)
+
+TRANSFERÊNCIAS - Somente em PROMOÇÕES específicas criadas pela Fábrica de Pontos
+
+LOTE DE CRIAÇÃO DE PONTOS?
+--------------------------------------- PRÊMIOS ----------------------------------------------------
+
+Resgata utilizando os pontos mais antigos
+
+SOLICITAÇÃO DE RESGATE  pode ser REPROVADA em caso de DETECÇÃO DE FRAUDE
+
+NÃO pode ser trocado os itens da solicitação de RESGATE após a solicitaçao ser confirmada
+
+SUBSTITUIÇÃO só pode ser feita em caso da Fábria de Prêmios identificar que não possui estoque
+
+ESTOQUE**** 
+
+ENDEREÇO DE RESGATE não poderá ser alterado após solicitação, somente caso a entrega não possa ser efetuada pela equipe
+
+DEVOLUÇÃO em caso de ENTREGA impossibilitada
+
+LISTA DE DESEJOS
+
+TIPO DE PRÊMIO (Produtos ou experiências) ** Funcionamento e atributos diferentes
+
+--------------------------------------- CONTROLE DE ACESSO ----------------------------------------------------
+
+--------------------------------------- OUTRAS FUNCIONALIDADES -------------------------------------------------
+
+RELATÓRIOS, LISTA DE DESEJOS, fale conosco, dúvidas, opinião, destaque de prêmios, status de meta etc...
+
+DESAFIO - AVISOS - MURAL - ENVIO DE AVISOS(PUSH) - PROMOÇÕES - QUIZ
+
+--------------------------------------- CONTROLE DE NAVEGAÇÃO -------------------------------------------------
+
+--------------------------------------- DÚVIDAS IMPORTANTES -------------------------------------------------
+o que são so FOCOS MENSAIS?
+
+o que são so FOCOS DE VOLUME?
+
+Quem são do GRUPO DE ELITE?
+
+Como funcionam os CASH CARDS?
+
+o que é a BATALHA DOS GERENTES? promoçao?
+
+O QUE é fase?
+
+esta base atende mais de um programa? vide tabela pi_adm_programa
+
+
+
+
+
+
+
+
+
+05/05/17 - 14h - 16h
+07/07/17 - 16h - 21h
+08/05/17 - 13h - 15h
+
+8 horas para fazer o entendimento de 50 tabelas com relacionamento
+16h para entender 143 tabelas sem relacionamento
